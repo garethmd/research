@@ -1,0 +1,6 @@
+gymnasium
+gymnasium[atari]
+gymnasium[accept-rom-license]
+wandb>0.16.0
+matplotlib
+torchvision
