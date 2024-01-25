@@ -3,3 +3,6 @@ venv
 *.pth
 wandb
 lightning_logs
+*.pt
+*.mp4
+.DS_Store
